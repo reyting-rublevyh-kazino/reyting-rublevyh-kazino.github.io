@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-rublevyh-kazino.github.io
+Sitemap: https://reyting-rublevyh-kazino.github.io/sitemap.xml
